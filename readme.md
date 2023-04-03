@@ -15,4 +15,5 @@
 <h5><a href="https://download942.mediafire.com/2v42ff5i44rgujOKl024gsz2O6wQXL9ig5ufJuqRTw7A8uw_Jxj5bI4T-QJNZS4lUJe3SFsD4Ccq_WdAyKIfpM3gVg/ozuqrhyyfhoe21b/shoot-tank-2d-0.0.1.rar">Pobierz grę - 21.2MB</a></h5>
 <h3>Nowości</h3>
 <h4>Dodano paczkę na github.</h4>
+<h6>Ta wersja ma tylko skrypt do ruszania się i obracania górną częścią czołgu, można przelatywać przez ściany xD</h6>
 <h1></h1>
